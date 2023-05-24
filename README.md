@@ -1,5 +1,8 @@
 # Stable Diffusion WebUI CPU
- install Stable Diffusion WebUI on Windows with only CPU
+
+The sd.webui.cpuzip is a binary distribution for people who want to try Stable Diffusion on a Windows PC without a GPU.
+
+# install Stable Diffusion WebUI on Windows with only CPU
 
  This project is cloned from:
  https://github.com/AUTOMATIC1111/stable-diffusion-webui/releases/tag/v1.0.0-pre
