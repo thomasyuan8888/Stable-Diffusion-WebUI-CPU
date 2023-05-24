@@ -17,6 +17,9 @@ in webui.py, comment out the following line:
 #app.add_middleware(GZipMiddleware, minimum_size=1000)
 ``` 
 
-then you can execute "run.bat" to start.
 
+You also need to download at least one model and copy it to the folder "webui\models\Stable-diffusion"
+
+then you can execute "run.bat" to start.
+when everything is ok, an URL "http://127.0.0.1:7860" will print on the screen. Don't close the terminal window, press "CTRL" and click the link to open the URL in browser.
 
