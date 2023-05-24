@@ -1,4 +1,4 @@
-# Stable Diffusion WebUI CPU
+# Run Stable Diffusion WebUI with only CPU, No GPU required
 
 The sd.webui.cpuzip is a binary distribution for people who want to try Stable Diffusion on a Windows PC without a GPU.
 
@@ -7,7 +7,7 @@ The sd.webui.cpuzip is a binary distribution for people who want to try Stable D
  This project is cloned from:
  https://github.com/AUTOMATIC1111/stable-diffusion-webui/releases/tag/v1.0.0-pre
 
- and changed a few lines code to let it runs on Windows PC without GPU.
+ and changed a few lines code to let it run on Windows PC without GPU.
 
 in launch.py:
 ```python
